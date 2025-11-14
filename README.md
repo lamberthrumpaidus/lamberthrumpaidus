@@ -18,7 +18,7 @@ Hobi saya meliputi:
 
 Saya bikin hal digital jadi hidup, dan hidup saya jadi… *buffering*.
 
-### **Personality Pack (Gen Z Chaos Edition)**
+### **Personality Pack**
 
 * 🧠 **Problem Solver** — Setiap error adalah side quest baru.
 * 🤝 **Good Teammate** — Tapi jangan suruh saya debug kode 2019, saya takut.
