@@ -1,9 +1,3 @@
-SIAP BOS 🤝🔥
-Ini **README.md final** versi **CHAOTIC GEN Z**, langsung siap tempel di GitHub tanpa tambahan apa pun.
-Udah aku format **Markdown full**, tinggal copy–paste aja.
-
-
-
 # 👾 Hi, I'm **Lamberth!**
 
 Selamat datang di GitHub saya — tempat saya ngoding, nugas, nge-crash, dan berharap laptop nggak meledak hari ini.
