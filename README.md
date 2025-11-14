@@ -1,55 +1,63 @@
 # 👾 Hi, I'm **Lamberth!**
 
-Selamat datang di repositori kehidupan saya — tempat saya ngoding, eksperimen, dan sesekali menyesal menekan tombol *run* tanpa berpikir panjang.
+Selamat datang di repositori kehidupan saya — tempat saya ngoding, eksperimen, dan kadang bertanya ke diri sendiri:
 
+> *"Kenapa tadi aku pencet run tanpa baca error dulu ya?"*
 
 ## 🔥 About Me
 
-Saya adalah manusia biasa yang hobi bikin hal digital jadi hidup, dan hal hidup jadi… digital.
-Web dev? Gas. Cyber security? Boleh. Ngetes batas kesabaran komputer? Hobi sampingan.
+Saya manusia normal… sampai laptop saya mulai nge-lag.
+Saya bikin hal digital jadi hidup, dan kadang bikin server CPU 100% cuma karena iseng.
+
+Web dev? Gas.
+Cyber security? Lumayan.
+Ngetes kesabaran komputer? Passion.
 
 ### **Personality Pack**
 
-* 🧠 **Problem Solver** — Makin error, makin tertantang.
-* 🤝 **Good Teammate** — Selama tim nggak ngajak debugging jam 03.00 pagi.
-* 🚀 **Fast Learner** — Karena teknologi update terus, sedangkan tidur bisa nanti.
-
+* 🧠 **Problem Solver** — Error itu musuh, tapi juga sahabat karib.
+* 🤝 **Good Teammate** — Asal nggak ngajak all-nighter dadakan.
+* 🚀 **Fast Learner** — Kalau ada fitur baru, langsung pengin nyoba. Kalau gagal, pura-pura nggak tau.
 
 ## 🎮 Projects Showcase
 
 ### 🎯 [**Rubaka — Web Game**](https://rubaka.netlify.app/)
 
-Game simple, cepat, dan cukup bikin kamu bilang *“sekali lagi deh.”*
+Game simple yang suka bilang:
+
+> *“Ayo lagi, kamu pasti bisa… atau mungkin nggak.”*
 
 ### 🔎 [**uDork — Recon Tool**](https://github.com/lamberthrumpaidus/uDork)
 
-Alat untuk mencari informasi sensitif di web. Berguna banget… kalau dipakai dengan niat baik.
-
+Tool buat nyari info sensitif di web.
+Dipakai baik-baik, jangan sampai FBI datang nge-like repo kamu.
 
 ### 🤝 **Collab Projects**
 
-* [**Flappy Ghost**](https://github.com/lamberthrumpaidus/FlappyGhost) — Hantu terbang, hidupnya penuh rintangan seperti mahasiswa.
-* [**Final Algorithm Project**](https://github.com/lamberthrumpaidus/FINAL_PROJECT_ALGORITMA) — Kalkulator nilai biar nggak salah hitung harapan.
+* [**Flappy Ghost**](https://github.com/lamberthrumpaidus/FlappyGhost) — Hantu terbang yang hidupnya lebih berat dari tugas kampus.
+* [**Final Algorithm Project**](https://github.com/lamberthrumpaidus/FINAL_PROJECT_ALGORITMA) — Biar nilai nggak cuma harapan, tapi perhitungan.
 
 ## 🛠️ Skills
 
 ### ⭐ **Skill Utama**
 
-* 🪄 [**ChatGPT**](https://chatgpt.com)
-  *Karena kalau ChatGPT bisa semua, saya tinggal bilang: “tolong bikinin.”*
-  (Efisien? Iya. Malas? No comment.)
-
+  🪄 [**ChatGPT**](https://chatgpt.com)
+  *Satu skill untuk menguasai semuanya.*
+  Tinggal bilang “tolong bikinin”, beres.
+  Manusia modern? Boleh.
+  Ngakalin hidup? Pastinya.
 
 ## 📂 Portfolio
 
-Kalau mau lihat saya *lebih serius* dan nggak terlalu banyak bercanda:
+Kalau mau lihat versi saya yang lebih sopan dan less-ngakak:
 
-* 🌐 Website: [PENCET INI BOS](https://lamberthrumpaidus.netlify.app/)
-* 🎮 3D Site: [TEKAN KENE](https://3d-lamberthrumpaidus.netlify.app/)
-
-
+* 🌐 Website: [**PENCET INI BOS**](https://lamberthrumpaidus.netlify.app/)
+* 🎮 3D Site: [**TEKAN KENE**](https://3d-lamberthrumpaidus.netlify.app/)
+  
 ## 📫 Contact
 
-Butuh partner ngoding, collab project, atau sekadar tanya kenapa error muncul tanpa dosa?
+Butuh partner ngoding? Mau collab?
+Atau cuma mau nanya “bang, kenapa error-nya hilang tapi ada yang lain muncul?”
 
 📧 **[SINI MAS BRO](mailto:lamberthpaulinusrumpaidus@gmail.com)**
+*(Tenang, saya nggak gigit. Laptop saya aja yang suka begitu.)*
