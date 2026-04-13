@@ -50,5 +50,5 @@ Project kolaborasi *game physics* menggunakan JavaScript, fokus pada manajemen *
 Ingin berkolaborasi di project Cloud atau sekadar diskusi tentang masa depan AI?
 
 * 🌐 **Portfolio:** [lamberthrumpaidus.netlify.app](https://lamberthrumpaidus.netlify.app/)
-* ✨ **3D Experience:** [3d-lamberthrumpaidus.netlify.app](https://3d-lamberthrumpaidus.netlify.app/)
+* ✨ **3D Portfolio:** [3d-lamberthrumpaidus.netlify.app](https://3d-lamberthrumpaidus.netlify.app/)
 * 📧 **Email:** [lamberthpaulinusrumpaidus@gmail.com](mailto:lamberthpaulinusrumpaidus@gmail.com)
