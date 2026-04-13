@@ -11,7 +11,6 @@ Selamat datang di terminal digital saya. Di sini, kode dieksekusi, sistem diopti
 
 Saya mahasiswa Informatika di **Universitas Amikom Yogyakarta** yang terobsesi dengan efisiensi sistem dan keamanan digital. Saat ini, saya sedang mendalami ekosistem Google Cloud dan automasi cerdas.
 
-* ☁️ **Cloud Guard:** Sedang dalam misi menyelesaikan 28 Google Cloud Skill Badges.
 * 🤖 **AI Driven:** Memanfaatkan Generative AI untuk akselerasi workflow dan problem solving.
 * 🐧 **Linux & Terminal:** Lebih nyaman di CLI daripada di mall.
 * 🌍 **Community Impact:** Berambisi membawa perubahan teknologi melalui program **Google Student Ambassador**.
