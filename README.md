@@ -1,83 +1,61 @@
-# 👾 Hi, I'm **Lamberth!**
+# 👾 **Lamberth Rumpaidus**
+### *Cloud Enthusiast | Informatics Student | Tech Adventurer*
 
-Selamat datang di GitHub saya — tempat saya ngoding, nugas, nge-crash, dan berharap laptop nggak meledak hari ini.
+Selamat datang di terminal digital saya. Di sini, kode dieksekusi, sistem dioptimasi, dan sesekali laptop saya minta ampun. Saya fokus menjembatani celah teknologi melalui solusi berbasis Cloud dan AI.
 
-> *“Run dulu, mikir belakangan.”* — filosofi hidup.
+> *"Talk is cheap. Show me the code (and the cloud logs)."*
 
+---
 
+## 🚀 **About Me**
 
-## 🔥 About Me
+Saya mahasiswa Informatika di **Universitas Amikom Yogyakarta** yang terobsesi dengan efisiensi sistem dan keamanan digital. Saat ini, saya sedang mendalami ekosistem Google Cloud dan automasi cerdas.
 
-Saya developer half-human half-error-message.
-Hobi saya meliputi:
+* ☁️ **Cloud Guard:** Sedang dalam misi menyelesaikan 28 Google Cloud Skill Badges.
+* 🤖 **AI Driven:** Memanfaatkan Generative AI untuk akselerasi workflow dan problem solving.
+* 🐧 **Linux & Terminal:** Lebih nyaman di CLI daripada di mall.
+* 🌍 **Community Impact:** Berambisi membawa perubahan teknologi melalui program **Google Student Ambassador**.
 
-* bikin project
-* rusakin project
-* benerin project yang saya rusakin
-* nyalahin komputer padahal saya sendiri yang salah
+---
 
-Saya bikin hal digital jadi hidup, dan hidup saya jadi… *buffering*.
+## 🛠️ **Tech Stack**
 
-### **Personality Pack**
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, C++, SQL |
+| **Cloud & DevOps** | Google Cloud Platform (GCP), Linux SysAdmin, Docker |
+| **Cybersecurity** | Reconnaissance, Web Dorking, Threat Analysis |
+| **Automation** | Selenium, Python Scripting, API Integration |
 
-* 🧠 **Problem Solver** — Setiap error adalah side quest baru.
-* 🤝 **Good Teammate** — Tapi jangan suruh saya debug kode 2019, saya takut.
-* 🚀 **Fast Learner** — Belajar cepat, lupa lebih cepat. Cycle sehat.
+---
 
+## 🎯 **Featured Projects**
 
+### 🔍 [**uDork — Advanced Recon Tool**](https://github.com/lamberthrumpaidus/uDork)
+Tool otomatisasi Google Dorking untuk kebutuhan *security auditing* dan pencarian informasi sensitif secara legal.
 
-## 🎮 Projects Showcase
+### 🎮 [**Rubaka — Interactive Web Game**](https://rubaka.netlify.app/)
+Eksperimen *front-end* yang menguji ketangkasan pengguna dalam balutan interface minimalis.
 
-### 🎯 [**Rubaka — Web Game**](https://rubaka.netlify.app/)
+### 🛡️ [**Target Breach Analysis**](https://github.com/lamberthrumpaidus)
+Studi kasus mendalam mengenai kegagalan CIA Triad pada insiden keamanan Target 2013 sebagai bagian dari riset akademik.
 
-Game simple yang suka berbisik:
+### 🧪 [**Flappy Ghost**](https://github.com/lamberthrumpaidus/FlappyGhost)
+Project kolaborasi *game physics* menggunakan JavaScript, fokus pada manajemen *state* dan tabrakan objek.
 
-> *“Ayo sekali lagi…”*
-> Padahal kamu udah main 3 jam.
+---
 
-### 🔎 [**uDork — Recon Tool**](https://github.com/lamberthrumpaidus/uDork)
+## 📈 **Stats & Activity**
 
-Tool buat nyari info sensitif di web.
-Tolong dipakai baik-baik, jangan bikin FBI nge-like repo saya.
+![Lamberth's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamberthrumpaidus&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamberthrumpaidus&layout=compact&theme=tokyonight)
 
-### 🤝 **Collab Projects**
+---
 
-* [**Flappy Ghost**](https://github.com/lamberthrumpaidus/FlappyGhost) —
-  Hantu terbang tapi mentalnya lebih rapuh dari koneksi WiFi kos-kosan.
-* [**Final Algorithm Project**](https://github.com/lamberthrumpaidus/FINAL_PROJECT_ALGORITMA) —
-  Biar nilai mahasiswa tidak hanya harapan, tetapi perhitungan nyata.
+## 🌐 **Connect with Me**
 
+Ingin berkolaborasi di project Cloud atau sekadar diskusi tentang masa depan AI?
 
-
-## 🛠️ Skills
-
-### ⭐ **Skill Utama**
-
-* 🪄 [**ChatGPT**](https://chatgpt.com)
-  *Satu-satunya skill yang saya tulis.*
-  Karena kalau ChatGPT bisa semuanya, saya tinggal bilang:
-
-  > *"bang, generate solusinya."*
-  > Produktif? Iya.
-  > Curang? No comment.
-
-
-
-## 📂 Portfolio
-
-Kalau mau lihat versi saya yang lebih rapi dan tidak se-chaotic README ini:
-
-* 🌐 Website: [**PENCET INI BOS**](https://lamberthrumpaidus.netlify.app/)
-* 🎮 3D Site: [**TEKAN KENE**](https://3d-lamberthrumpaidus.netlify.app/)
-
-> Jangan kaget, websitenya jauh lebih waras daripada penggunanya.
-
-
-
-## 📫 Contact
-
-Mau collab? Mau tanya error?
-Atau mau curhat karena hidup banyak bug dan kurang fitur?
-
-📧 **[SINI MAS BRO](mailto:lamberthpaulinusrumpaidus@gmail.com)**
-Bales cepat kalau saya belum tidur jam 3 pagi.
+* 🌐 **Portfolio:** [lamberthrumpaidus.netlify.app](https://lamberthrumpaidus.netlify.app/)
+* ✨ **3D Experience:** [3d-lamberthrumpaidus.netlify.app](https://3d-lamberthrumpaidus.netlify.app/)
+* 📧 **Email:** [lamberthpaulinusrumpaidus@gmail.com](mailto:lamberthpaulinusrumpaidus@gmail.com)
