@@ -45,13 +45,6 @@ Project kolaborasi *game physics* menggunakan JavaScript, fokus pada manajemen *
 
 ---
 
-## 📈 **Stats & Activity**
-
-![Lamberth's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamberthrumpaidus&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamberthrumpaidus&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 **Connect with Me**
 
 Ingin berkolaborasi di project Cloud atau sekadar diskusi tentang masa depan AI?
