@@ -34,13 +34,12 @@ Saya mahasiswa Informatika di **Universitas Amikom Yogyakarta** yang terobsesi d
 Tool otomatisasi Google Dorking untuk kebutuhan *security auditing* dan pencarian informasi sensitif secara legal.
 
 ### 🎮 [**Rubaka — Interactive Web Game**](https://rubaka.netlify.app/)
-Eksperimen *front-end* yang menguji ketangkasan pengguna dalam balutan interface minimalis.
+Rubaka adalah game aksi-platformer yang membawa pemain ke dalam dunia mitologis yang misterius dan penuh tantangan.
 
-### 🛡️ [**Target Breach Analysis**](https://github.com/lamberthrumpaidus)
-Studi kasus mendalam mengenai kegagalan CIA Triad pada insiden keamanan Target 2013 sebagai bagian dari riset akademik.
+### 🎮 [**Arcade Collection Game - 20 Mini Games**](https://arcadecollectiongame.netlify.app/)
+Arcade Collection Game adalah sebuah platform hiburan digital yang menghadirkan 20 mini games legendaris
 
-### 🧪 [**Flappy Ghost**](https://github.com/lamberthrumpaidus/FlappyGhost)
-Project kolaborasi *game physics* menggunakan JavaScript, fokus pada manajemen *state* dan tabrakan objek.
+###🎯 [**Omni Science - komputasi saintifik**](https://omn1sc1ence.netlify.app/)
 
 ---
 
