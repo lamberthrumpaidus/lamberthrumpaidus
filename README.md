@@ -39,7 +39,7 @@ Rubaka adalah game aksi-platformer yang membawa pemain ke dalam dunia mitologis 
 ### 🎮 [**Arcade Collection Game - 20 Mini Games**](https://arcadecollectiongame.netlify.app/)
 Arcade Collection Game adalah sebuah platform hiburan digital yang menghadirkan 20 mini games legendaris
 
-### 🎯 [**Omni Science - komputasi saintifik**](https://omn1sc1ence.netlify.app/)
+### 🎯 [**Omni Science - Komputasi Saintifik**](https://omn1sc1ence.netlify.app/)
 Omni-Science adalah sebuah platform komputasi saintifik berbasis web yang dirancang untuk menjadi asisten utama bagi mahasiswa, peneliti, dan penggemar sains.
 
 ---
