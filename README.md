@@ -18,7 +18,7 @@
 
 ### About
 
-Saya **Lamberth Paulinus Rumpaidus**, mahasiswa **Informatika, Universitas Amikom Yogyakarta**, yang senang mengubah ide menjadi aplikasi dan pengalaman digital nyata.
+Saya **Lamberth Paulinus Rumpaidus**, mahasiswa **Informatika**, yang senang mengubah ide menjadi aplikasi dan pengalaman digital nyata.
 
 Saya mengembangkan proyek web, game, dan alat komputasi, serta mengeksplorasi **AI, cloud computing, otomatisasi, dan keamanan sistem**. Bagi saya, proyek yang baik bukan hanya terlihat menarik, tetapi juga mudah digunakan dan memiliki fungsi yang jelas.
 
