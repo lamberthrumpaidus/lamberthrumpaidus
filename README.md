@@ -1,31 +1,31 @@
 <div align="center">
-  <img src="./assets/lr-logo-v2.png" alt="Logo L/R — Lamberth Rumpaidus" width="215" />
+  <img src="./assets/lr-logo-v2.png" alt="L/R — Lamberth Rumpaidus" width="210" />
   <h1>Lamberth Rumpaidus</h1>
-  <p><strong>Informatics · Web Development · Creative Technology</strong></p>
-  <p>Membangun pengalaman digital yang fungsional, interaktif, dan terus berkembang.</p>
-  <p><a href="https://lamberthrumpaidus.netlify.app/">Portfolio</a> · <a href="https://3d-lamberthrumpaidus.netlify.app/">3D Experience</a> · <a href="mailto:lamberthpaulinusrumpaidus@gmail.com">Email</a></p>
+  <p>Pengembangan web, permainan, dan eksperimen komputasi.</p>
+  <p><a href="https://lamberthrumpaidus.netlify.app/">Portofolio</a> · <a href="https://3d-lamberthrumpaidus.netlify.app/">Portofolio 3D</a> · <a href="https://github.com/lamberthrumpaidus/lamberthrumpaidus">Repositori profil</a></p>
 </div>
 
 ---
 
-### About
+## Profil
 
-Saya **Lamberth Paulinus Rumpaidus**, mahasiswa Informatika yang tertarik pada pengembangan web, game, komputasi, dan eksperimen teknologi. Saya senang membangun proyek yang tidak hanya menarik secara visual, tetapi juga memiliki fungsi yang jelas.
+Saya Lamberth Paulinus Rumpaidus, mahasiswa Informatika yang mengembangkan proyek di bidang perangkat lunak. Minat utama saya mencakup aplikasi web, pengembangan permainan, otomatisasi, dan komputasi ilmiah.
 
-### Selected projects
+## Proyek pilihan
 
-| Proyek | Fokus | Tautan |
+| Proyek | Deskripsi | Akses |
 |---|---|---|
-| **3D Portfolio** | Eksplorasi visual portofolio tiga dimensi | [Repository](https://github.com/lamberthrumpaidus/3D-Portfolio) · [Live](https://3d-lamberthrumpaidus.netlify.app/) |
-| **LANDLORD** | Eksperimen game petualangan 3D | [Repository](https://github.com/lamberthrumpaidus/LANDLORD) |
-| **RUBAKA** | Game aksi-platformer | [Repository](https://github.com/lamberthrumpaidus/Rubaka) · [Play](https://rubaka.netlify.app/) |
-| **Omni-Science** | Perhitungan matematika dan sains | [Repository](https://github.com/lamberthrumpaidus/Omni_Science) · [Live](https://omn1sc1ence.netlify.app/) |
-| **Arcade Collection** | 20 mini game berbasis browser | [Repository](https://github.com/lamberthrumpaidus/Arcade_Collection_Game) · [Play](https://arcadecollectiongame.netlify.app/) |
-| **PixelPay** | Konsep website bisnis digital | [Repository](https://github.com/lamberthrumpaidus/pixelpay) |
-| **Sandbox Projects** | Arsip kode yang dikelompokkan | [Jelajahi](https://github.com/lamberthrumpaidus/sandbox_projects) |
+| **Portfolio** | Situs untuk memperkenalkan karya dan pengalaman pengembangan. | [Website](https://lamberthrumpaidus.netlify.app/) |
+| **3D Portfolio** | Portofolio dengan visualisasi interaktif tiga dimensi. | [Repository](https://github.com/lamberthrumpaidus/3D-Portfolio) · [Website](https://3d-lamberthrumpaidus.netlify.app/) |
+| **LANDLORD** | Proyek permainan petualangan tiga dimensi berbasis browser. | [Repository](https://github.com/lamberthrumpaidus/LANDLORD) |
+| **RUBAKA** | Permainan aksi-platformer dengan beberapa area permainan. | [Repository](https://github.com/lamberthrumpaidus/Rubaka) · [Mainkan](https://rubaka.netlify.app/) |
+| **Arcade Collection** | Kumpulan 20 permainan sederhana berbasis browser. | [Repository](https://github.com/lamberthrumpaidus/Arcade_Collection_Game) |
+| **Omni-Science** | Aplikasi untuk perhitungan matematika dan sains. | [Repository](https://github.com/lamberthrumpaidus/Omni_Science) |
+| **PixelPay** | Konsep antarmuka layanan top-up game. | [Repository](https://github.com/lamberthrumpaidus/pixelpay) |
+| **Sandbox Projects** | Koleksi latihan dan dokumentasi teknis. | [Repository](https://github.com/lamberthrumpaidus/sandbox_projects) |
 
-### Skills & interests
+## Teknologi
 
-**Python · JavaScript · HTML/CSS · C++ · C# · Git**
+Python · JavaScript · HTML · CSS · C++ · C# · Git
 
-Interactive websites · Browser games · Automation · AI & scientific computing
+**Kontak:** [Email](mailto:lamberthpaulinusrumpaidus@gmail.com)
