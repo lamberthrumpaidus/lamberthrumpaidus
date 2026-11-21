@@ -1,3 +1,4 @@
+<!-- ALL Create by LamberthRumpaidus -->
 <div align="center">
   <img src="./assets/lr-logo-v2.png" alt="L/R — Lamberth Rumpaidus" width="210" />
   <h1>Lamberth Rumpaidus</h1>
