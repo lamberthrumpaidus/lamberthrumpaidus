@@ -1,53 +1,70 @@
-# 👾 **Lamberth Rumpaidus**
-### *Cloud Enthusiast | Informatics Student | Tech Adventurer*
+<div align="center">
+  <img src="./assets/lr-logo.png" width="245" alt="L/R — Lamberth Rumpaidus" />
 
-Selamat datang di terminal digital saya. Di sini, kode dieksekusi, sistem dioptimasi, dan sesekali laptop saya minta ampun. Saya fokus menjembatani celah teknologi melalui solusi berbasis Cloud dan AI.
+  # Lamberth Rumpaidus
 
-> *"Talk is cheap. Show me the code (and the cloud logs)."*
+  **Informatics Student · Interactive Web · Creative Development**
 
----
+  <p>
+    Membangun pengalaman digital yang fungsional, interaktif, dan terus berkembang.
+  </p>
 
-## 🚀 **About Me**
-
-Saya mahasiswa Informatika di **Universitas Amikom Yogyakarta** yang terobsesi dengan efisiensi sistem dan keamanan digital. Saat ini, saya sedang mendalami ekosistem Google Cloud dan automasi cerdas.
-
-* 🤖 **AI Driven:** Memanfaatkan Generative AI untuk akselerasi workflow dan problem solving.
-* 🐧 **Linux & Terminal:** Lebih nyaman di CLI daripada di mall.
-* 🌍 **Community Impact:** Berambisi membawa perubahan teknologi melalui program **Google Student Ambassador**.
-
----
-
-## 🛠️ **Tech Stack**
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, C++, SQL |
-| **Cloud & DevOps** | Google Cloud Platform (GCP), Linux SysAdmin, Docker |
-| **Cybersecurity** | Reconnaissance, Web Dorking, Threat Analysis |
-| **Automation** | Selenium, Python Scripting, API Integration |
+  <a href="https://lamberthrumpaidus.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-00C8A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://3d-lamberthrumpaidus.netlify.app/"><img src="https://img.shields.io/badge/3D_PORTFOLIO-Explore-16263D?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Portfolio" /></a>
+  <a href="mailto:lamberthpaulinusrumpaidus@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-00AFA4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
 ---
 
-## 🎯 **Featured Projects**
+### About
 
-### 🔍 [**uDork — Advanced Recon Tool**](https://github.com/lamberthrumpaidus/uDork)
-Tool otomatisasi Google Dorking untuk kebutuhan *security auditing* dan pencarian informasi sensitif secara legal.
+Saya **Lamberth Paulinus Rumpaidus**, mahasiswa **Informatika, Universitas Amikom Yogyakarta**, yang senang mengubah ide menjadi aplikasi dan pengalaman digital nyata.
 
-### 🎮 [**Rubaka — Interactive Web Game**](https://rubaka.netlify.app/)
-Rubaka adalah game aksi-platformer yang membawa pemain ke dalam dunia mitologis yang misterius dan penuh tantangan.
+Saya mengembangkan proyek web, game, dan alat komputasi, serta mengeksplorasi **AI, cloud computing, otomatisasi, dan keamanan sistem**. Bagi saya, proyek yang baik bukan hanya terlihat menarik, tetapi juga mudah digunakan dan memiliki fungsi yang jelas.
 
-### 🎮 [**Arcade Collection Game - 20 Mini Games**](https://arcadecollectiongame.netlify.app/)
-Arcade Collection Game adalah sebuah platform hiburan digital yang menghadirkan 20 mini games legendaris
+### Selected work
 
-### 🎯 [**Omni Science - Komputasi Saintifik**](https://omn1sc1ence.netlify.app/)
-Omni-Science adalah sebuah platform komputasi saintifik berbasis web yang dirancang untuk menjadi asisten utama bagi mahasiswa, peneliti, dan penggemar sains.
+| Project | What I built | Explore |
+| :--- | :--- | :--- |
+| **3D Portfolio** | Portofolio interaktif dengan pengalaman visual 3D. | [Source](https://github.com/lamberthrumpaidus/3D-Portfolio) · [Live](https://3d-lamberthrumpaidus.netlify.app/) |
+| **LANDLORD** | Eksperimen game 3D berbasis browser dengan eksplorasi dunia dan mekanik gameplay. | [Source](https://github.com/lamberthrumpaidus/LANDLORD) |
+| **Rubaka** | Game aksi platformer dengan tantangan, musuh, dan eksplorasi. | [Source](https://github.com/lamberthrumpaidus/Rubaka) · [Play](https://rubaka.netlify.app/) |
+| **Omni-Science** | Workspace komputasi sains, matematika, dan konversi satuan. | [Source](https://github.com/lamberthrumpaidus/Omni_Science) · [Live](https://omn1sc1ence.netlify.app/) |
+| **Arcade Collection** | Koleksi 20 mini game dengan antarmuka berbasis web. | [Source](https://github.com/lamberthrumpaidus/Arcade_Collection_Game) · [Play](https://arcadecollectiongame.netlify.app/) |
+| **PixelPay TopUp** | Konsep landing page bisnis digital dan simulasi alur top-up game. | [Source](https://github.com/lamberthrumpaidus/pixelpay) |
+
+<details>
+  <summary><strong>More experiments & repositories</strong></summary>
+  <br />
+
+  - [Sandbox Projects](https://github.com/lamberthrumpaidus/sandbox_projects) — kumpulan proyek yang dikelompokkan berdasarkan bidang dan folder proyek.
+  - [uDork](https://github.com/lamberthrumpaidus/sandbox_projects/tree/main/collections/08-security-research/uDork) — eksperimen riset keamanan dan OSINT.
+  - [Portfolio](https://github.com/lamberthrumpaidus/Portfolio) — situs portofolio personal.
+</details>
+
+### Technology & interests
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-233B57?style=flat-square&logo=python&logoColor=FFDD54" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-233B57?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-233B57?style=flat-square&logo=cplusplus&logoColor=64B5F6" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-233B57?style=flat-square&logo=csharp&logoColor=B6A0FF" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-233B57?style=flat-square&logo=html5&logoColor=FF9672" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-233B57?style=flat-square&logo=css&logoColor=66CFFF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-233B57?style=flat-square&logo=git&logoColor=FF805F" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-233B57?style=flat-square&logo=linux&logoColor=F4D35E" alt="Linux" />
+</div>
+
+**Focus areas:** Interactive front-end · Browser games · Scientific tools · Automation · AI & Cloud exploration
+
+### Let's connect
+
+Terbuka untuk berbagi ide, diskusi teknologi, dan kolaborasi dalam proyek pengembangan perangkat lunak.
+
+**[Website](https://lamberthrumpaidus.netlify.app/)** · **[3D Experience](https://3d-lamberthrumpaidus.netlify.app/)** · **[GitHub](https://github.com/lamberthrumpaidus)** · **[Email](mailto:lamberthpaulinusrumpaidus@gmail.com)**
 
 ---
 
-## 🌐 **Connect with Me**
-
-Ingin berkolaborasi di project Cloud atau sekadar diskusi tentang masa depan AI?
-
-* 🌐 **Portfolio:** [lamberthrumpaidus.netlify.app](https://lamberthrumpaidus.netlify.app/)
-* ✨ **3D Portfolio:** [3d-lamberthrumpaidus.netlify.app](https://3d-lamberthrumpaidus.netlify.app/)
-* 📧 **Email:** [lamberthpaulinusrumpaidus@gmail.com](mailto:lamberthpaulinusrumpaidus@gmail.com)
+<div align="center">
+  <sub>Designed & developed by <strong>Lamberth Rumpaidus</strong> · Keep building, keep learning.</sub>
+</div>
