@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/lr-logo.png" width="245" alt="L/R — Lamberth Rumpaidus" />
+  <img src="./assets/lr-logo-v2.png" width="340" height="186" alt="L/R — Lamberth Rumpaidus" />
 
   <h1>Lamberth Rumpaidus</h1>
 
