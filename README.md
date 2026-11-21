@@ -1,15 +1,15 @@
 <div align="center">
   <img src="./assets/lr-logo.png" width="245" alt="L/R — Lamberth Rumpaidus" />
 
-  # Lamberth Rumpaidus
+  <h1>Lamberth Rumpaidus</h1>
 
-  **Informatics Student · Interactive Web · Creative Development**
+  <p><strong>Informatics Student · Interactive Web · Creative Development</strong></p>
 
   <p>
     Membangun pengalaman digital yang fungsional, interaktif, dan terus berkembang.
   </p>
 
-  <a href="https://lamberthrumpaidus.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-00C8A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://lamberthrumpaidus.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-00C8A7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="https://3d-lamberthrumpaidus.netlify.app/"><img src="https://img.shields.io/badge/3D_PORTFOLIO-Explore-16263D?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Portfolio" /></a>
   <a href="mailto:lamberthpaulinusrumpaidus@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-00AFA4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
@@ -50,7 +50,7 @@ Saya mengembangkan proyek web, game, dan alat komputasi, serta mengeksplorasi **
   <img src="https://img.shields.io/badge/C++-233B57?style=flat-square&logo=cplusplus&logoColor=64B5F6" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-233B57?style=flat-square&logo=csharp&logoColor=B6A0FF" alt="C#" />
   <img src="https://img.shields.io/badge/HTML5-233B57?style=flat-square&logo=html5&logoColor=FF9672" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-233B57?style=flat-square&logo=css&logoColor=66CFFF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-233B57?style=flat-square&logo=css3&logoColor=66CFFF" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-233B57?style=flat-square&logo=git&logoColor=FF805F" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-233B57?style=flat-square&logo=linux&logoColor=F4D35E" alt="Linux" />
 </div>
