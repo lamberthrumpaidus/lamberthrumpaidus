@@ -29,9 +29,3 @@ Saya **Lamberth Paulinus Rumpaidus**, mahasiswa Informatika yang tertarik pada p
 **Python · JavaScript · HTML/CSS · C++ · C# · Git**
 
 Interactive websites · Browser games · Automation · AI & scientific computing
-
----
-
-<div align="center">
-  <sub>Keep building, keep learning. · <a href="https://github.com/lamberthrumpaidus/lamberthrumpaidus">L/R</a></sub>
-</div>
